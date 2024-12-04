@@ -16,7 +16,7 @@ AKEA
 Expanding the Atlanta Airport Database to a Global Scale
 
 ## Background
-This project builds upon the foundation established in **Project 1**, which focused solely on one day of domestic flights in and out of Atlanta's Hartsfield-Jackson International Airport. Recognizing the growing importance of Atlanta as a global hub, the database has been significantly expanded to include all domestic and international flights from airports worldwide. This evolution reflects the complexities of modern air travel and supports advanced decision-making through data-driven insights.
+This project builds upon the foundation established in **Project 1** https://github.com/esther-wenxi-liao/MIST4610_FA24_29704_GP1_AKEA, which focused solely on one day of domestic flights in and out of Atlanta's Hartsfield-Jackson International Airport. Recognizing the growing importance of Atlanta as a global hub, the database has been significantly expanded to include all domestic and international flights from airports worldwide. This evolution reflects the complexities of modern air travel and supports advanced decision-making through data-driven insights.
 
 ## Objectives
 As Atlanta grows into a major international hub, the airport and its stakeholders aim to:
