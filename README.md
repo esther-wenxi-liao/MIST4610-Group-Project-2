@@ -522,3 +522,32 @@ This query provides insights into route popularity and airline performance. Mana
 The name of the database on the MySQL server: **cs_wl82230**
 
 Each query listed above is marked in the database using stored procedures which can be called using the following format: ```CALL TP2_Qx();``` where ```x``` is the number of query.
+
+---
+
+# Tableau visualizations
+
+## 1. Flight Delays: Duration and Causes
+- Helps managers pinpoint frequent delay causes and their severity.
+- Differentiates between domestic and international flight issues for targeted resolutions.
+  <img width="487" alt="Screenshot 2024-12-03 at 7 47 08 PM" src="https://github.com/user-attachments/assets/b42fed4e-7344-4e75-8772-5a581dcd3927">
+
+
+## 2. Avg Flight Hour for Pilots by Airline
+- Pilots with higher average flight hours often have more experience, which can contribute to safer and more efficient flight operations. Understanding these statistics can help evaluate airline safety practices and pilot expertise.
+- If managers are considering flying with these airlines, this information might influence your choice based on the experience level of their pilots.
+- If managers are interested in the aviation industry, especially as a pilot, this graph highlights which airlines may provide opportunities for gaining extensive flight experience.
+- For stakeholders in the aviation industry, such as policymakers, investors, or airline executives, this data serves as a benchmark to compare pilot experience levels and improve training or hiring practices.
+
+<img width="498" alt="Screenshot 2024-12-03 at 8 14 08 PM" src="https://github.com/user-attachments/assets/1c8bac18-805a-459e-aa6e-ebfb767fe389">
+
+## 3. Most Popular Flight Destinations with Over 6 Flights
+- It highlights destinations with a high frequency of flights, indicating their popularity or strategic importance for the airline.
+- Airlines and airport authorities can use this data to prioritize resources such as staffing, gate assignments, and services for these high-traffic destinations.
+- For travelers, this graph helps identify destinations with frequent flights, providing more flexibility and options when planning trips.
+- It can inform airline executives about which routes are consistently in demand, guiding decisions on expanding or optimizing flight schedules.
+
+<img width="1080" alt="Screenshot 2024-12-03 at 8 30 26 PM" src="https://github.com/user-attachments/assets/23c2541b-22b2-4e68-8d95-6f9a60d1e29d">
+
+
+
